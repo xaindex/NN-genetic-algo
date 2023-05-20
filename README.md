@@ -1,4 +1,4 @@
-# Evolve a neural network with a genetic algorithm
+## Evolve a neural network with a genetic algorithm
 
 This is an example of how we can use a genetic algorithm in an attempt to find the optimal network parameters for classification tasks.
 
